@@ -1,4 +1,23 @@
-### Hi there 👋
+# Hi, I'm Gonzalo! 👋
+
+I have just graduated as Full-Stack developer from _Soy Henry_. During Henry's bootcamp, I learned JavaScript, PostgreSQL, Express, React, Node.js, Redux, HTML, CSS, Sequelize, Git and SQL. I have business background with a Bachelor in Administration from _Universidad Nacional de Cuyo, Argentina_.  My activities are much beyond my stream of education. ⚡ I am involved in a lot of........
+
+### 🌱 What do I do and What have I done? 
+
+- Current Intern at ......... 
+- Course Curator at ..............
+- Global ...................
+
+
+### ⚡ One line that describes me best? 
+................😉😉
+
+### 📫 How to reach me:
+- [E-mail](gonzalogdv@gmail.com) 
+- [LinkedIn](https://www.linkedin.com/in/gonzalogdv/)
+
+You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
+
 
 <!--
 **GonzaloGDV/GonzaloGDV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
