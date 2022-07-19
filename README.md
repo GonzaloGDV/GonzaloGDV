@@ -16,8 +16,6 @@ I have just graduated as Full-Stack developer from _Soy Henry_. During Henry's b
 - [E-mail](gonzalogdv@gmail.com) 
 - [LinkedIn](https://www.linkedin.com/in/gonzalogdv/)
 
-You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
-
 
 <!--
 **GonzaloGDV/GonzaloGDV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
