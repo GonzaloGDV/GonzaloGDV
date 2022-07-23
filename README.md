@@ -1,7 +1,7 @@
 # Hi, I'm Gonzalo! 👋
 
 <p align="justify">
-I have just graduated as Full-Stack developer from _Soy Henry_. During Henry's bootcamp, I have learned JavaScript, PostgreSQL, Express, React, Node.js, Redux, HTML, CSS, Sequelize, Git and SQL. I am currently looking for a tech job. I would love to work in a company where I could apply my knowledge and new learned skills. I have business background with a Bachelor in Administration from _Universidad Nacional de Cuyo, Argentina_.
+I have just graduated as Full-stack developer from _Soy Henry_. During Henry's bootcamp, I have learned JavaScript, PostgreSQL, Express, React, Node.js, Redux, HTML, CSS, Sequelize, Git and SQL. I am currently looking for a tech job. I would love to work in a company where I could apply my knowledge and new learned skills. I have business background with a Bachelor in Administration from _Universidad Nacional de Cuyo, Argentina_.
 </p>  
 
 ### ⚡ One line that describes me best? 
